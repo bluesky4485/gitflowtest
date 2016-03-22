@@ -19,3 +19,5 @@ sourcetree的第五次添加功能了。
 ## func6
 阿达faf。
 
+## func7
+天使的笑容是魅力无穷的。
