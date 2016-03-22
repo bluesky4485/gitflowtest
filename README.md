@@ -13,6 +13,9 @@ gitflow
 ## func4
 是第四个功能，是在git bash里面处理的内容。
 
-
 ## func5
 sourcetree的第五次添加功能了。
+
+## func6
+阿达faf。
+
