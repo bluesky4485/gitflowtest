@@ -12,3 +12,6 @@ gitflow
 
 ## func4
 是第四个功能，是在git bash里面处理的内容。
+
+## func6
+阿达faf。
